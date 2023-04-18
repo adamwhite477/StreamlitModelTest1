@@ -1,0 +1,6 @@
+fastai
+streamlit
+matplotlib
+pandas
+pyqt5
+numpy
